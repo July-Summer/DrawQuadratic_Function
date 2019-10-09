@@ -17,7 +17,7 @@ import org.eclipse.swt.widgets.Shell;
  * 
  * @author July_Summer
  * @since 2019,9,28,7
- * @version 1.0.0.0.0.0fuck-version-wdnmd
+ * @version 1.0.0.0.0.0fuck-version-wdnmd 不用看了 我忘记代入公式了 顶点坐标是错误的
  */
 public class DrawTwoHan {
 
